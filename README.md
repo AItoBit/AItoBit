@@ -2,7 +2,7 @@
 <h3 align="center">GPU compiler engineer in the making · Formal verification with Lean 4</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%2F+GPU+Compilers;Triton+%7C+CUDA+%7C+MLIR;Proving+things+in+Lean+4;Based+in+Rotterdam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%2F+GPU+Compilers;Triton+%7C+CUDA+%7C+MLIR;Proving+things+in+Lean+4;Based+in+Spain" alt="Typing SVG" />
 </p>
 
 <p align="center">
