@@ -18,8 +18,8 @@
 - ⚙️ Writing GPU kernels and compiler experiments: **[bytes-in-flight](https://github.com/AItoBit/bytes-in-flight)**, **[kernel-forge](https://github.com/AItoBit/kernel-forge)**, **[mini-triton](https://github.com/AItoBit/mini-triton)**
 - 🧮 Formalizing mathematics in **Lean 4 / Mathlib** and building **[LeanBench](https://github.com/AItoBit/LeanBench)**
 - 👯 Open to collaborating on **ML compilers, Triton and formal verification**
-- 🗣️ I speak **Spanish and English  **
-- 📍 Based in **Rotterdam, Netherlands**
+- 🗣️ I speak ** Spanish and English  **
+
 
 ---
 
