@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pineapple</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">GPU compiler engineer in the making · Formal verification with Lean 4</h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 - ⚙️ Writing GPU kernels and compiler experiments: **[bytes-in-flight](https://github.com/AItoBit/bytes-in-flight)**, **[kernel-forge](https://github.com/AItoBit/kernel-forge)**, **[mini-triton](https://github.com/AItoBit/mini-triton)**
 - 🧮 Formalizing mathematics in **Lean 4 / Mathlib** and building **[LeanBench](https://github.com/AItoBit/LeanBench)**
 - 👯 Open to collaborating on **ML compilers, Triton and formal verification**
-- 🗣️ I speak ** Spanish and English  **
+ **
 
 
 ---
