@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+ <h1 align="center">Hi 👋</h1>
 <h3 align="center">GPU compiler engineer in the making · Formal verification with Lean 4</h3>
 
 <p align="center">
