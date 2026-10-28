@@ -10,7 +10,7 @@
   <a href="https://github.com/AItoBit?tab=followers"><img src="https://img.shields.io/github/followers/AItoBit?label=Followers&style=social" alt="followers" /></a>
 </p>
 
----
+---  
 
 ## 🧑‍💻 About me
 
